@@ -1,6 +1,4 @@
 # DAGON - Fishing Reservation Platform
-
-## 프로젝트 한 줄 요약
 > 낚시 예약 서비스를 중심으로, 사용자·파트너·관리자 권한 분리와 외부 API 연동을 고려해 설계한 Spring Boot · Vue 기반 웹 서비스
 
 ## 프로젝트 개요
