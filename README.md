@@ -31,7 +31,7 @@
 - 물때·날씨 외부 공공데이터 API를 연동하고, 서비스 도메인에 맞게 응답데이터를 가공 및 제공
 - 프론트엔드에서 사용자 유형에 따른 헤더 구조를 설계·구현하고, 사이트 전반의 반응형 기준 수립하여 UI 정리
 - 팀원들이 생성한 스타일을 분석·통합하여 공통 UI 스타일 기준을 정리하고 보조 UI 요소 구현
-- 
+
 ## 관련 레포지토리
 - Backend: https://github.com/seaturtle3/dagon
 - Frontend: https://github.com/seaturtle3/dagon-vue
